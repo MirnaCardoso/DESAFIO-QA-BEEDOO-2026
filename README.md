@@ -27,7 +27,7 @@ Você pode acessar a aplicação rodando ao vivo aqui:
 4. Tente deixar algum campo vazio para ver como o sistema se comporta.
 
 ---
-**Feito por [Seu Nome]** *Buscando minha primeira oportunidade como Desenvolvedor Front-End / QA.*
+**Feito por [Mirna]** *Buscando minha primeira oportunidade como Desenvolvedor Front-End / QA.*
 
 
 
