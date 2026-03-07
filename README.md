@@ -1,44 +1,33 @@
-# 🚀 Desafio QA Beedoo 2026 - Cadastro e Listagem de Cursos
+# Desafio de QA - Beedoo 2026 🚀
 
-Este repositório contém a solução para o desafio de QA, focado na validação das funcionalidades de **Cadastro** e **Listagem** de cursos na plataforma.
+Olá! Este é o meu projeto para o desafio de QA da Beedoo. Aqui eu realizei o desenvolvimento e os testes de um módulo de cadastro e listagem de cursos.
 
-## 🌐 Link da Aplicação (Live Demo)
-Acesse a aplicação hospedada na Netlify para realizar os testes manuais:
+## 🔗 Link do Projeto
+Você pode acessar a aplicação rodando ao vivo aqui:
 👉 [https://creative-sherbet-a51eac.netlify.app/](https://creative-sherbet-a51eac.netlify.app/)
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
-* **Desenvolvimento:** HTML5, CSS3, JavaScript.
-* **Hospedagem:** Netlify.
-* **Testes (Planejamento):** [Insira aqui se usou Cypress, Playwright ou Testes Manuais].
+## 📝 O que eu fiz:
+* **Cadastro de Cursos:** Criei um formulário onde é possível dar nome e detalhes aos cursos.
+* **Listagem:** Os cursos aparecem logo abaixo assim que são cadastrados.
+* **Testes Manuais:** Testei cada campo para garantir que tudo está funcionando como deveria.
+
+## 🛠️ Tecnologias que usei:
+* HTML5 e CSS3 (para a estrutura e o visual)
+* JavaScript (para a lógica de cadastrar e listar)
+* Netlify (para colocar o site no ar)
 
 ---
 
-## 📋 Funcionalidades Testadas
-
-### 1. Módulo de Cadastro
-* **Cenário de Sucesso:** Verificação se o curso é salvo corretamente ao preencher todos os campos.
-* **Validações:** * Campos obrigatórios (Nome, Descrição, Carga Horária).
-  * Formato de dados (ex: Carga horária aceitando apenas números).
-  * Feedback visual após o cadastro.
-
-### 2. Módulo de Listagem
-* **Exibição:** Garantir que os dados cadastrados aparecem exatamente como inseridos.
-* **Responsividade:** Verificar se a lista de cursos se ajusta a dispositivos móveis (Mobile-first).
-* **Persistência:** Teste de recarregamento da página (verificar se os dados permanecem ou se resetam).
+## 🧪 Como testar:
+1. Clique no link do projeto acima.
+2. Tente cadastrar um curso preenchendo as informações.
+3. Verifique se o curso apareceu na lista.
+4. Tente deixar algum campo vazio para ver como o sistema se comporta.
 
 ---
+**Feito por [Seu Nome]** *Buscando minha primeira oportunidade como Desenvolvedor Front-End / QA.*
 
-## 🧪 Como Executar os Testes
 
-### Testes Manuais
-1. Acesse o link da aplicação: https://creative-sherbet-a51eac.netlify.app/
-2. Tente cadastrar um curso sem preencher o nome e observe a reação do sistema.
-3. Cadastre um curso válido e verifique se ele aparece na lista abaixo do formulário.
 
-### Testes Automatizados (Opcional - caso você tenha criado)
-```bash
-# Exemplo para Cypress
-npm install
-npx cypress open
