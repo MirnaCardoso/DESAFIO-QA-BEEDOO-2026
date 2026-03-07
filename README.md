@@ -28,8 +28,6 @@ Você pode acessar a aplicação rodando ao vivo aqui:
 
 ---
 
-![QA Testing](https://cdn-icons-png.flaticon.com/512/5221/5221822.png)
-
 ## Erros encontrados no programa:
 1. O programa permite deixar espaços em branco. Não emite nenhum aviso de que espaços em branco não são permitidos.
 2. A função excluir curso não está funcionando. A mensagem aparece mas o curso cadastrado continua lá.
