@@ -8,19 +8,19 @@ Você pode acessar a aplicação rodando ao vivo aqui:
 
 ---
 
-## 📝 Descrição do programa:
+ 📝 Descrição do programa:
 - Cadastro de Cursos: Trata-se de  um formulário onde é possível dar nome e detalhes aos cursos.
 - Listagem: Os cursos aparecem logo abaixo assim que são cadastrados.
 - Testes Manuais: Testei cada campo para garantir que tudo está funcionando como deveria.
 
-## 🛠️ Tecnologias usadas no programa:
+ 🛠️ Tecnologias usadas no programa:
 - HTML5 e CSS3 (para a estrutura e o visual)
 - JavaScript (para a lógica de cadastrar e listar)
 - Netlify (para colocar o site no ar)
 
 ---
 
-## 🧪 Como foi realizado o teste:
+ 🧪 Como foi realizado o teste:
 1. Clique no link do projeto acima.
 2. Tente cadastrar um curso preenchendo as informações.
 3. Verifique se o curso apareceu na lista.
@@ -30,14 +30,20 @@ Você pode acessar a aplicação rodando ao vivo aqui:
 
 ---
 
-6. Reflexão sobre o desafio
+🤔 Reflexão sobre o desafio
 Responda brevemente:
 
-- Qual foi o bug mais interessante que você encontrou durante o desafio
-  O bug mais interessante que encontrei foi o fato de o curso após criado não poder ser excluído.
-- Qual foi o cenário de teste mais difícil de pensar
-  Foi o que se refere a busca de imagens para fazer a URL da capa. Perdi muito tempo procurando uma imagem autorizada e não ficou bom.
+- Qual foi o bug mais interessante que você encontrou durante o desafio?
+  
+O bug mais interessante que encontrei foi o fato de o curso após criado não poder ser excluído.
+  
+- Qual foi o cenário de teste mais difícil de pensar?
+  
+ Foi o que se refere a busca de imagens para fazer a URL da capa. Perdi muito tempo procurando uma imagem autorizada e não ficou bom.
+  
 - O que você faria diferente se tivesse mais tempo para testar a aplicação?
+
+Colocaria o nome da empresa no formulário do curso, retiraria a url da capa e no lugar já acrescentava o logo da empresa, já acrescentaria o valor do curso, as condições de  pagamento e o link para efetuar o pagamento constando débito, crédito e parcelamento.
 
 🗒️ Erros encontrados no programa:
 1. O programa permite deixar espaços em branco. Não emite nenhum aviso de que espaços em branco não são permitidos.
