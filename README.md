@@ -1,6 +1,6 @@
 # Desafio de QA - Beedoo 2026 🚀
 
-Olá! Este é o meu projeto para o desafio de QA da Beedoo. Aqui eu realizei o desenvolvimento e os testes de um módulo de cadastro e listagem de cursos.
+Olá! Este é o meu caso de teste para o desafio de QA da Beedoo. Aqui eu realizei o desenvolvimento e os testes de um módulo de cadastro e listagem de cursos.
 
 ## 🔗 Link do Projeto
 Você pode acessar a aplicação rodando ao vivo aqui:
@@ -43,7 +43,7 @@ O bug mais interessante que encontrei foi o fato de o curso após criado não po
   
 - O que você faria diferente se tivesse mais tempo para testar a aplicação?
 
-Colocaria o nome da empresa no formulário do curso, retiraria a url da capa e no lugar já acrescentava o logo da empresa, já acrescentaria o valor do curso, as condições de  pagamento e o link para efetuar o pagamento constando débito, crédito e parcelamento.
+Colocaria o nome da empresa no formulário do curso, retiraria a url da capa e no lugar já acrescentava o logo da empresa, já acrescentaria uma palavra linkada para abrir uma página de condições de pagamento, parcelamento, débito, crédito.
 
 🗒️ Erros encontrados no programa:
 1. O programa permite deixar espaços em branco. Não emite nenhum aviso de que espaços em branco não são permitidos.
@@ -52,6 +52,7 @@ Colocaria o nome da empresa no formulário do curso, retiraria a url da capa e n
 4. Qualquer pessoa pode entrar e cadastrar cursos, mostrando a vulnerabilidade do sistema. Não existe uma senha administrativa.
 5. Acredito que o fundo de cada caixa de curso já deveria vir com um plano de fundo, evitando assim, mais tempo para cadastrar o curso.
 6. Falta um ítem de editar, para que se possa corrigir algum erro ao cadastrar o curso, logicamente permitido apenas para o(s) administrador(es).
+7. Falta uma página mostrando o valor de cada curso, as condições de pagamento, parcelamento, uso de cartões e, consequentemente uma segurança para o usuário.
 
 ---
 **Feito por [Mirna]** *Buscando minha primeira oportunidade como Desenvolvedor Front-End / QA.*
