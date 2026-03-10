@@ -59,6 +59,6 @@ Link da planilha de testes:
 https://us.docworkspace.com/d/sIJiz_YDRAoLCwM0G
 
 Link dos prints de vulnerabilidades:
-"C:\Users\Mirna\Desktop\Prints do desafio"
+C:\Users\Mirna\Desktop\Prints do desafio
 
 **Feito por [Mirna]** *Buscando minha primeira oportunidade como Desenvolvedor Front-End / QA.*
