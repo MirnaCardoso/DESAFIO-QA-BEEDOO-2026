@@ -55,4 +55,10 @@ Colocaria o nome da empresa no formulário do curso, retiraria a url da capa e n
 7. Falta uma página mostrando o valor de cada curso, as condições de pagamento, parcelamento, uso de cartões e, consequentemente uma segurança para o usuário.
 
 ---
+Link da planilha de testes:
+https://us.docworkspace.com/d/sIJiz_YDRAoLCwM0G
+
+Link dos prints de vulnerabilidades:
+"C:\Users\Mirna\Desktop\Prints do desafio"
+
 **Feito por [Mirna]** *Buscando minha primeira oportunidade como Desenvolvedor Front-End / QA.*
